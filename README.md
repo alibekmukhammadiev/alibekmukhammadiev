@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Apps<br>🌱 I’m currently learning Backend Web Development<br>⚡ Fun fact: I learn new tech by turning side projects into experiments
+🔭 I’m currently working on Full-Stack Apps<br>🌱 I’m currently learning Backend Web Development<br>⚡ Fun fact: I learn new tech by turning side projects into experiments
 
 
 ## 🌐 Socials:
